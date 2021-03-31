@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "124851906203",
+    "project_id": "shop-movies-app",
+    "storage_bucket": "shop-movies-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124851906203:android:e44adbdabd2427269ec83e",
+        "android_client_info": {
+          "package_name": "funix.prm.prm391x_shopmovies_fx04786"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124851906203-74e6cu20dkd1gnla4992avk1ffpjal8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "funix.prm.prm391x_shopmovies_fx04786",
+            "certificate_hash": "c81e85a04d36916b6c11526823c0de4bfbaeef29"
+          }
+        },
+        {
+          "client_id": "124851906203-jt2cr7841najuko8860ikatbm9n4pg8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBncwsw9KctacQ3Ta4GZK9F1UhKV_0Cq-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124851906203-jt2cr7841najuko8860ikatbm9n4pg8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

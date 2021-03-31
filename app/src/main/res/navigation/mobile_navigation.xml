@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@+id/navigation_movies"
+    android:id="@+id/mobile_navigation">
+    <fragment
+        android:id="@+id/navigation_movies"
+        android:name="funix.prm.prm391x_shopmovies_fx04786.ui.movies.MoviesFragment"
+        android:label="@string/title_movies"
+        tools:layout="@layout/movies_fragment" />
+
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="funix.prm.prm391x_shopmovies_fx04786.ui.profile.ProfileFragment"
+        android:label="@string/title_prifile"
+        tools:layout="@layout/profile_fragment" />
+</navigation>

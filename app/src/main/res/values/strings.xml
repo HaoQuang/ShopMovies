@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shop Movies App</string>
+    <string name="facebook_application_id" translatable="false">1366833937005203</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb1366833937005203</string>
+
+    <string name="facebook_app_id">1366833937005203</string>
+    <string name="fb_login_protocol_scheme">fb1366833937005203</string>
+
+    <string name="title_movies">Movies</string>
+    <string name="title_prifile">Profile</string>
+
+</resources>
